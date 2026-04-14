@@ -67,6 +67,16 @@
 
 Понравился результат? Я могу написать аналогичное приложение под ваши задачи.
 
-📧 [Mail](mailto:pycraft-dev@21051992.ru)  
-🔗 [Kwork](https://kwork.ru/user/pycraft-dev)  
-🔗 [GitHub](https://github.com/pycraft-dev/)
+# 👋 Привет! Я Вова (pycraft-dev)
+
+Python-разработчик, создаю удобные десктопные приложения и инструменты автоматизации.
+
+## 🔧 Технологии
+- **GUI:** CustomTkinter, PyQt5, Tkinter
+- **Backend:** Python 3.11+, asyncio, threading
+- **Automation:** Pandas, OpenPyXL, BeautifulSoup
+
+## 📬 Контакты
+📧 [pycraft-dev@21051992.ru](mailto:pycraft-dev@21051992.ru)  
+💼 [Kwork](https://kwork.ru/user/pycraft-dev)  
+🐙 [GitHub](https://github.com/pycraft-dev)
