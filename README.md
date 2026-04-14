@@ -67,4 +67,8 @@
 
 Понравился результат? Я могу написать аналогичное приложение под ваши задачи.
 
-🔗 [Мой профиль на Kwork](https://kwork.ru/user/gollumlotr?spm=a2ty_o01.29997173.0.0.496655fbaCd1Nx)
+📧 [Моя почта Mail](mailto:pycraft-dev@21051992.ru)  
+🔗 [Мой профиль на Kwork](https://kwork.ru/user/pycraft-dev)  
+🔗 [Мой профиль на GitHub](https://github.com/pycraft-dev/)
+
+
