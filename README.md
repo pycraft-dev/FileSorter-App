@@ -76,7 +76,11 @@ Python-разработчик, создаю удобные десктопные 
 - **Backend:** Python 3.11+, asyncio, threading
 - **Automation:** Pandas, OpenPyXL, BeautifulSoup
 
-## 📬 Контакты
+## 📬 Контакты разработчика
+
+**Вова | pycraft-dev**  
+Python-разработчик • Современные GUI-приложения
+
 📧 [pycraft-dev@21051992.ru](mailto:pycraft-dev@21051992.ru)  
 💼 [Kwork](https://kwork.ru/user/pycraft-dev)  
 🐙 [GitHub](https://github.com/pycraft-dev)
